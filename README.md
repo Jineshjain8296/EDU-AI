@@ -30,7 +30,7 @@ To get edu_ai running on your local device, follow these steps:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Aniudupa15/edu_ai.git
+    git clone https://github.com/Jineshjain8296/EDU-AI.git
     ```
 
 2. Navigate into the project directory:
